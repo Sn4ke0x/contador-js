@@ -22,9 +22,9 @@ O bootcamp é uma experiência online com muito conteúdo prático, desafios e h
 
 O layout da aplicação no desenvolvimento atual:
 
-<!-- <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/img/snake.png" width="400px">
-</p> -->
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img title="web" src="./assets/img/web.gif" width="400px">
+</p>
 
 ---
 
